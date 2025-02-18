@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Молочка",
+        "imageUrl": "https://storage.yandexcloud.net/mobile-dev/recipes/cat_molochka.jpg",
+        "ingredientsIds": [ 12 ]
+    },
+    {
+        "id": 1,
+        "title": "Яичные завтраки",
+        "imageUrl": "https://storage.yandexcloud.net/mobile-dev/recipes/cat_yaica.jpg",
+        "ingredientsIds": [ 31 ]
+    },
+    {
+        "id": 2,
+        "title": "Каши",
+        "imageUrl": "https://storage.yandexcloud.net/mobile-dev/recipes/cat_casha.jpg",
+        "ingredientsIds": [ 5, 6, 12, 15 ]
+    },
+    {
+        "id": 3,
+        "title": "Сэндвичи",
+        "imageUrl": "https://storage.yandexcloud.net/mobile-dev/recipes/cat_sandvichi.jpg",
+        "ingredientsIds": [ 27 ]
+    }
+]

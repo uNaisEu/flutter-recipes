@@ -1,0 +1,479 @@
+[
+  {
+    "id": 1,
+    "title": "Омлет с овощами",
+    "ingredients": [
+      {
+        "id": 31,
+        "name": "Яйцо",
+        "unit": "шт",
+        "amount": 3
+      },
+      {
+        "id": 17,
+        "name": "Помидоры",
+        "unit": "шт",
+        "amount": 1
+      },
+      {
+        "id": 4,
+        "name": "Болгарский перец",
+        "unit": "шт",
+        "amount": 0.5
+      },
+      {
+        "id": 7,
+        "name": "Зеленый лук",
+        "unit": "г",
+        "amount": 10
+      },
+      {
+        "id": 12,
+        "name": "Молоко",
+        "unit": "мл",
+        "amount": 50
+      },
+      {
+        "id": 23,
+        "name": "Соль",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 21,
+        "name": "Сливочное масло",
+        "unit": "г",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Взбейте яйца с молоком и солью.",
+      "Нарежьте овощи небольшими кубиками.",
+      "На разогретой сковороде растопите масло.",
+      "Добавьте овощи и обжарьте 2-3 минуты.",
+      "Вылейте яичную смесь на сковороду и готовьте омлет до загустения.",
+      "Посыпьте зеленым луком перед подачей."
+    ],
+    "cooking_time": 15,
+    "servings": 2,
+    "calories_per_serving": 220,
+    "dish_type": "Основное блюдо",
+    "cooking_method": "Жарка",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Подавать сразу после приготовления.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/omlet_s_ovoshami.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Гречневая каша с молоком",
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "Гречневая крупа",
+        "unit": "г",
+        "amount": 100
+      },
+      {
+        "id": 12,
+        "name": "Молоко",
+        "unit": "мл",
+        "amount": 200
+      },
+      {
+        "id": 19,
+        "name": "Сахар",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 23,
+        "name": "Соль",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 10,
+        "name": "Масло сливочное",
+        "unit": "г",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Промойте гречневую крупу в холодной воде.",
+      "Вскипятите молоко в кастрюле.",
+      "Добавьте гречку, соль и сахар.",
+      "Варите на слабом огне 15 минут, периодически помешивая.",
+      "Добавьте сливочное масло перед подачей."
+    ],
+    "cooking_time": 20,
+    "servings": 1,
+    "calories_per_serving": 300,
+    "dish_type": "Каша",
+    "cooking_method": "Варка",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Можно хранить в холодильнике до 2 суток.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/grechka_s_molokom.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Тосты с авокадо и яйцом пашот",
+    "ingredients": [
+      {
+        "id": 27,
+        "name": "Хлеб тостовый",
+        "unit": "шт",
+        "amount": 2
+      },
+      {
+        "id": 1,
+        "name": "Авокадо",
+        "unit": "шт",
+        "amount": 1
+      },
+      {
+        "id": 31,
+        "name": "Яйцо",
+        "unit": "шт",
+        "amount": 2
+      },
+      {
+        "id": 9,
+        "name": "Лимонный сок",
+        "unit": "мл",
+        "amount": 1
+      },
+      {
+        "id": 23,
+        "name": "Соль",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 16,
+        "name": "Перец черный молотый",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 8,
+        "name": "Зелень",
+        "unit": "г",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Поджарьте тосты в тостере или на сковороде.",
+      "Разомните авокадо вилкой, добавьте лимонный сок и соль.",
+      "Вскипятите воду в кастрюле и аккуратно опустите яйца для приготовления пашот на 3-4 минуты.",
+      "Намажьте авокадо на тосты.",
+      "Выложите сверху яйцо пашот и посыпьте черным перцем и зеленью."
+    ],
+    "cooking_time": 15,
+    "servings": 1,
+    "calories_per_serving": 350,
+    "dish_type": "Бутерброд",
+    "cooking_method": "Варка, Тостер",
+    "difficulty_level": "Средне",
+    "storage_instructions": "Подавать сразу после приготовления.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/toast_s_avokado.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "title": "Сырники с сметаной",
+    "ingredients": [
+      {
+        "id": 26,
+        "name": "Творог",
+        "unit": "г",
+        "amount": 200
+      },
+      {
+        "id": 31,
+        "name": "Яйцо",
+        "unit": "шт",
+        "amount": 1
+      },
+      {
+        "id": 13,
+        "name": "Мука",
+        "unit": "г",
+        "amount": 50
+      },
+      {
+        "id": 19,
+        "name": "Сахар",
+        "unit": "г",
+        "amount": 2
+      },
+      {
+        "id": 22,
+        "name": "Сметана",
+        "unit": "г",
+        "amount": 50
+      },
+      {
+        "id": 18,
+        "name": "Растительное масло",
+        "unit": "мл",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Смешайте творог, яйцо, муку и сахар.",
+      "Сформируйте небольшие лепешки из творожной массы.",
+      "Обжарьте сырники на сковороде с растительным маслом до золотистой корочки.",
+      "Подавайте со сметаной."
+    ],
+    "cooking_time": 20,
+    "servings": 2,
+    "calories_per_serving": 350,
+    "dish_type": "Десерт",
+    "cooking_method": "Жарка",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Можно хранить в холодильнике до 2 суток.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/syrniki.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "title": "Овсяная каша с бананом",
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "Овсяные хлопья",
+        "unit": "г",
+        "amount": 50
+      },
+      {
+        "id": 12,
+        "name": "Молоко",
+        "unit": "мл",
+        "amount": 200
+      },
+      {
+        "id": 3,
+        "name": "Банан",
+        "unit": "шт",
+        "amount": 1
+      },
+      {
+        "id": 11,
+        "name": "Мед",
+        "unit": "г",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Вскипятите молоко и добавьте овсяные хлопья.",
+      "Варите на медленном огне 5-7 минут, помешивая.",
+      "Добавьте нарезанный банан и мед перед подачей."
+    ],
+    "cooking_time": 10,
+    "servings": 1,
+    "calories_per_serving": 280,
+    "dish_type": "Каша",
+    "cooking_method": "Варка",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Лучше подавать сразу.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/ovsyanka.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "title": "Блинчики с медом",
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "Молоко",
+        "unit": "мл",
+        "amount": 250
+      },
+      {
+        "id": 31,
+        "name": "Яйцо",
+        "unit": "шт",
+        "amount": 2
+      },
+      {
+        "id": 13,
+        "name": "Мука",
+        "unit": "г",
+        "amount": 150
+      },
+      {
+        "id": 19,
+        "name": "Сахар",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 18,
+        "name": "Растительное масло",
+        "unit": "мл",
+        "amount": 20
+      },
+      {
+        "id": 11,
+        "name": "Мед",
+        "unit": "г",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Смешайте яйца, молоко, муку и сахар до однородной массы.",
+      "Обжарьте тонкие блины на сковороде с растительным маслом.",
+      "Сверните блины и полейте медом перед подачей."
+    ],
+    "cooking_time": 25,
+    "servings": 2,
+    "calories_per_serving": 320,
+    "dish_type": "Выпечка",
+    "cooking_method": "Жарка",
+    "difficulty_level": "Средне",
+    "storage_instructions": "Можно хранить до 1 дня в холодильнике.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/blinchiki.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "Гранола с йогуртом и ягодами",
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "Гранола",
+        "unit": "г",
+        "amount": 50
+      },
+      {
+        "id": 14,
+        "name": "Натуральный йогурт",
+        "unit": "г",
+        "amount": 150
+      },
+      {
+        "id": 29,
+        "name": "Ягоды малины",
+        "unit": "г",
+        "amount": 25
+      },
+      {
+        "id": 30,
+        "name": "Ягоды черники",
+        "unit": "г",
+        "amount": 25
+      }
+    ],
+    "instructions": [
+      "Выложите гранолу в тарелку.",
+      "Добавьте йогурт и ягоды сверху.",
+      "Перемешайте перед подачей."
+    ],
+    "cooking_time": 5,
+    "servings": 1,
+    "calories_per_serving": 200,
+    "dish_type": "Десерт",
+    "cooking_method": "Без готовки",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Подавать сразу после приготовления.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/granola.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "Запеченные яйца с шпинатом",
+    "ingredients": [
+      {
+        "id": 31,
+        "name": "Яйцо",
+        "unit": "шт",
+        "amount": 2
+      },
+      {
+        "id": 28,
+        "name": "Шпинат свежий",
+        "unit": "г",
+        "amount": 50
+      },
+      {
+        "id": 20,
+        "name": "Сливки",
+        "unit": "мл",
+        "amount": 30
+      },
+      {
+        "id": 25,
+        "name": "Сыр тертый",
+        "unit": "г",
+        "amount": 20
+      },
+      {
+        "id": 23,
+        "name": "Соль",
+        "unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 24,
+        "name": "Перец",
+        "unit": "г",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Выложите шпинат на дно формы для запекания.",
+      "Разбейте сверху яйца и добавьте сливки.",
+      "Посыпьте тертым сыром, солью и перцем.",
+      "Запекайте при 180°C около 10-12 минут."
+    ],
+    "cooking_time": 15,
+    "servings": 1,
+    "calories_per_serving": 240,
+    "dish_type": "Основное блюдо",
+    "cooking_method": "Запекание",
+    "difficulty_level": "Средне",
+    "storage_instructions": "Подавать сразу.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/zapechennye_yaica.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "title": "Тосты с арахисовой пастой и бананом",
+    "ingredients": [
+      {
+        "id": 27,
+        "name": "Хлеб тостовый",
+        "unit": "шт",
+        "amount": 2
+      },
+      {
+        "id": 2,
+        "name": "Арахисовая паста",
+        "unit": "г",
+        "amount": 2
+      },
+      {
+        "id": 3,
+        "name": "Банан",
+        "unit": "шт",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Поджарьте хлеб в тостере.",
+      "Намажьте тосты арахисовой пастой.",
+      "Добавьте нарезанный банан сверху."
+    ],
+    "cooking_time": 5,
+    "servings": 1,
+    "calories_per_serving": 300,
+    "dish_type": "Бутерброд",
+    "cooking_method": "Тостер",
+    "difficulty_level": "Легко",
+    "storage_instructions": "Подавать сразу.",
+    "image_url": "https://storage.yandexcloud.net/mobile-dev/recipes/toast_arahis.jpg",
+    "rating": 4.8
+  }
+]
